@@ -52,3 +52,34 @@
   max-width: none;
   line-height: var(--line-height-loose);
 }
+
+.quotes {
+  margin-top: 60px;
+}
+
+.quotes blockquote {
+  margin:30px;
+  display:block;
+}
+
+.quotes blockquote:before {
+  content:"“";
+  font-family: 'Playfair Display', serif;
+  font-size:3em;
+  color:#363636;
+  margin-left:-27px;
+  margin-top:2px;
+  position:absolute;
+}
+
+.quotes cite {
+  font-family: 'Playfair Display', serif;
+  font-size:0.875em;
+  color:#666;
+  margin-left:20px;
+}
+
+.quotes cite:before {
+  content:"- ";
+  font-size:0.875em;
+}

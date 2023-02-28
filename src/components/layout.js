@@ -12,6 +12,29 @@ import { useStaticQuery, graphql } from "gatsby"
 import Header from "./header"
 import "./layout.css"
 
+const links = [
+  {
+    text: "About",
+    url: "/",
+    description: "About",
+  },
+  {
+    text: "Schedule",
+    url: "schedule",
+    description: "Concert schedule",
+  },
+  {
+    text: "Audio",
+    url: "https://soundcloud.com/jason-awbrey",
+    description: "Audio",
+  },
+  {
+    text: "Instagram",
+    url: "https://instagram.com/jawbritone",
+    description: "@jawbritone",
+  },
+]
+
 const Layout = ({ children }) => {
   const data = useStaticQuery(graphql`
     query SiteTitleQuery {
@@ -40,9 +63,15 @@ const Layout = ({ children }) => {
             fontSize: `var(--font-sm)`,
           }}
         >
-          © {new Date().getFullYear()} &middot; Built with
-          {` `}
-          <a href="https://www.gatsbyjs.com">Gatsby</a>
+          <p>
+            {links.map((link, i) => (
+              <React.Fragment key={link.url}>
+                <a href={`${link.url}`}>{link.text}</a>
+                {i !== links.length - 1 && <> · </>}
+              </React.Fragment>
+            ))}
+          </p>
+          <p>© {new Date().getFullYear()} &middot; Jason Awbrey</p>
         </footer>
       </div>
     </>
