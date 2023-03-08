@@ -33,6 +33,11 @@ const links = [
     url: "https://instagram.com/jawbritone",
     description: "@jawbritone",
   },
+  {
+    text: "Youtube",
+    url: "https://www.youtube.com/@jhawbrey/videos",
+    description: "Youtube",
+  },
 ]
 
 const Layout = ({ children }) => {
