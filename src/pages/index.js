@@ -1,25 +1,9 @@
 import React, { Component } from "react"
-import { Link } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
-import * as styles from "../components/index.module.css"
 import QuoteData from "../content/quotes.json"
-
-const samplePageLinks = [
-  {
-    text: "Schedule",
-    url: "schedule",
-    badge: false,
-    description: "Concert schedule",
-  },
-  { text: "TypeScript", url: "using-typescript" },
-  { text: "Server Side Rendering", url: "using-ssr" },
-  { text: "Deferred Static Generation", url: "using-dsg" },
-]
-
-const utmParameters = `?utm_source=starter&utm_medium=start-page&utm_campaign=default-starter`
 
 const IndexPage = () => (
   <Layout>
