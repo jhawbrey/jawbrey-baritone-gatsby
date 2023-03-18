@@ -57,7 +57,6 @@ sortList(concerts, "ascend")
 
 const Schedule = () => (
   <Layout>
-    <Seo title="Schedule • Jason Awbrey | Baritone" />
     <h1>Jason Awbrey | Baritone</h1>
     <h2>Schedule</h2>
     {scheduleList(concerts)}

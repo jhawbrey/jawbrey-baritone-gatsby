@@ -23,7 +23,6 @@ const utmParameters = `?utm_source=starter&utm_medium=start-page&utm_campaign=de
 
 const IndexPage = () => (
   <Layout>
-    <Seo title="Jason Awbrey | Baritone" />
     <div>
       <h1>Jason Awbrey | Baritone</h1>
       <StaticImage

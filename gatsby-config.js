@@ -1,12 +1,14 @@
 module.exports = {
+  trailingSlash: `always`,
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
-    siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
+    description: `Concert info, reviews, audio, and info about Jason Awbrey, baritone`,
+    author: `@jawbritone`,
+    siteUrl: `https://jasonawbrey.com`,
   },
   plugins: [
     `gatsby-plugin-image`,
+    `gatsby-plugin-sharp`,
+    `gatsby-transformer-sharp`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
