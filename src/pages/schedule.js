@@ -1,5 +1,5 @@
 import React from "react"
-
+import Seo from "../components/seo"
 import Layout from "../components/layout"
 import * as styles from "../components/index.module.css"
 import SchedData from "../content/schedule.json"
@@ -61,5 +61,7 @@ const Schedule = () => (
     {scheduleList(pastConcerts)}
   </Layout>
 )
+
+export const Head = () => <Seo title="Jason Awbrey | Baritone : Schedule" />
 
 export default Schedule

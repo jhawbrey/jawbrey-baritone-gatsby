@@ -48,7 +48,9 @@ const Nav = data => {
     <div className="nav">
       {links.map((link, i) => (
         <React.Fragment key={link.url}>
-          <a href={`${link.url}`}>{link.text}</a>
+          <a href={`${link.url}`} rel={link.target ? "external" : ""}>
+            {link.text}
+          </a>
           {i !== links.length - 1 && <> · </>}
         </React.Fragment>
       ))}
