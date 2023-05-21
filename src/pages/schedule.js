@@ -1,8 +1,6 @@
-import React, { Component } from "react"
-import { Link } from "gatsby"
+import React from "react"
 
 import Layout from "../components/layout"
-import Seo from "../components/seo"
 import * as styles from "../components/index.module.css"
 import SchedData from "../content/schedule.json"
 
@@ -57,7 +55,6 @@ sortList(concerts, "ascend")
 
 const Schedule = () => (
   <Layout>
-    <h1>Jason Awbrey | Baritone</h1>
     <h2>Schedule</h2>
     {scheduleList(concerts)}
     <h2>Past Concerts</h2>

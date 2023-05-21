@@ -8,7 +8,6 @@ import QuoteData from "../content/quotes.json"
 const IndexPage = () => (
   <Layout>
     <div>
-      <h1>Jason Awbrey | Baritone</h1>
       <StaticImage
         src="../images/jasonawbrey-sq-hp.jpg"
         loading="eager"

@@ -20,25 +20,41 @@ const links = [
   },
   {
     text: "Schedule",
-    url: "schedule",
+    url: "/schedule",
     description: "Concert schedule",
   },
   {
     text: "Audio",
     url: "https://soundcloud.com/jason-awbrey",
     description: "Audio",
+    target: "_blank",
   },
   {
     text: "Instagram",
     url: "https://instagram.com/jawbritone",
     description: "@jawbritone",
+    target: "_blank",
   },
   {
     text: "Youtube",
     url: "https://www.youtube.com/@jhawbrey/videos",
     description: "Youtube",
+    target: "_blank",
   },
 ]
+
+const Nav = data => {
+  return (
+    <div className="nav">
+      {links.map((link, i) => (
+        <React.Fragment key={link.url}>
+          <a href={`${link.url}`}>{link.text}</a>
+          {i !== links.length - 1 && <> · </>}
+        </React.Fragment>
+      ))}
+    </div>
+  )
+}
 
 const Layout = ({ children }) => {
   const data = useStaticQuery(graphql`
@@ -61,6 +77,8 @@ const Layout = ({ children }) => {
           padding: `var(--size-gutter)`,
         }}
       >
+        <h1>Jason Awbrey | Baritone</h1>
+        {Nav(links)}
         <main>{children}</main>
         <footer
           style={{
@@ -68,14 +86,7 @@ const Layout = ({ children }) => {
             fontSize: `var(--font-sm)`,
           }}
         >
-          <p>
-            {links.map((link, i) => (
-              <React.Fragment key={link.url}>
-                <a href={`${link.url}`}>{link.text}</a>
-                {i !== links.length - 1 && <> · </>}
-              </React.Fragment>
-            ))}
-          </p>
+          {Nav(links)}
           <p>© {new Date().getFullYear()} &middot; Jason Awbrey</p>
         </footer>
       </div>
