@@ -1174,6 +1174,51 @@
     "country": "",
     "state": "",
     "map": ""
+  },
+  {
+    "organization": "Harmonia Stellarum",
+    "timestamp": "2023-12-03T16:00-06:00",
+    "date": "Dec 3, 2023",
+    "title": "Schütz: Christmas Oratorio
+    ",
+    "url": "https://harmoniastellarum.com/calendar/schtz-christmas-oratorio",
+    "venue": "First Lutheran, Houston",
+    "address": "1311 Holman Street
+    ",
+    "city": "Houston",
+    "country": "United States",
+    "state": "TX",
+    "map": "https://goo.gl/maps/LrzskYXYzLeQrf5c6"
+  },
+  {
+    "organization": "Harmonia Stellarum",
+    "timestamp": "2024-02-03T18:00-06:00",
+    "date": "Feb 3, 2024",
+    "title": "Music for Queen Margaret
+    ",
+    "url": "https://harmoniastellarum.com/calendar/music-at-the-court-of-margaret-and-felipe-iii-of-spain",
+    "venue": "Rienzi",
+    "address": "1406 Kirby Drive
+    ",
+    "city": "Houston",
+    "country": "United States",
+    "state": "TX",
+    "map": "https://goo.gl/maps/6FCrbFJ9R3KtwCm79"
+  },
+  {
+    "organization": "Harmonia Stellarum",
+    "timestamp": "2024-04-21T19:30-06:00",
+    "date": "Apr 21, 2024",
+    "title": "Monteverdi: A Caecilian Vespers
+    ",
+    "url": "https://harmoniastellarum.com/calendar/monteverdi-a-caecilian-vespers-1",
+    "venue": "Rice University, The Edythe Bates Old Recital Hall and Grand Organ    ",
+    "address": "6100 Main Street
+    ",
+    "city": "Houston",
+    "country": "United States",
+    "state": "TX",
+    "map": "https://goo.gl/maps/juijsiDxs5PtFedy9"
   }
 ]
 
