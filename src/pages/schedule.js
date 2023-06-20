@@ -32,6 +32,10 @@ const scheduleList = data => {
             <br />
             {date.venue}
             <br />
+            <a href={`${date.map}`}>
+              {date.address}, {date.city} ↗
+            </a>
+            <br />
             {date.time}
           </p>
         </li>
