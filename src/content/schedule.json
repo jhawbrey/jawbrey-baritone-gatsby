@@ -1192,7 +1192,7 @@
   },
   {
     "organization": "Ensemble Iona",
-    "timestamp": "2023-09-30T16:00-19:00",
+    "timestamp": "2023-09-30T19:00-06:00",
     "date": "Sept 30, 2023",
     "time": "7:00 pm", 
     "title": "English Polyphony and Eric Whitacre",
@@ -1203,6 +1203,20 @@
     "country": "United States",
     "state": "TX",
     "map": "https://goo.gl/maps/hrbpwtDhYPHdSWod7"
+  },
+  {
+    "organization": "Church of the Incarnation",
+    "timestamp": "2023-10-03T12:00-06:00",
+    "date": "Oct 3, 2023",
+    "time": "12:00 pm", 
+    "title": "Bach's Lunch",
+    "url": "",
+    "venue": "Church of the Incarnation",
+    "address": "3966 McKinney Ave",
+    "city": "Dallas",
+    "country": "United States",
+    "state": "TX",
+    "map": "https://maps.app.goo.gl/3yx8kPvfQdaHHWFU6"
   },
   {
     "organization": "Harmonia Stellarum",
@@ -1231,6 +1245,20 @@
     "country": "United States",
     "state": "TX",
     "map": "https://goo.gl/maps/6FCrbFJ9R3KtwCm79"
+  },
+  {
+    "organization": "Ensemble Iona",
+    "timestamp": "2024-02-24T19:00-06:00",
+    "date": "Feb 24, 2024",
+    "time": "7:00 pm", 
+    "title": "Lauridsen / Dove",
+    "url": "",
+    "venue": "St. Stephen Presbyterian Church",
+    "address": "2700 McPherson Ave",
+    "city": "Fort Worth",
+    "country": "United States",
+    "state": "TX",
+    "map": "https://goo.gl/maps/hrbpwtDhYPHdSWod7"
   },
   {
     "organization": "Harmonia Stellarum",
