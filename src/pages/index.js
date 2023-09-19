@@ -38,13 +38,6 @@ const IndexPage = () => (
         Humana. Jason has recorded with a number of ensembles including
         Conspirare, Orpheus Chamber Singers, Verdigris Ensemble, and Vox Humana.
       </p>
-      <p>
-        Recent and upcoming highlights include performances of Bach Cantatas BWV
-        4 & BWV 140 with Crescendo Bach Choir, Bach cantatas BWV 10 & 147 with
-        Oklahoma Bach, Schütz Christmas Oratorio with Harmonia Stellarum, and a
-        tour of Germany and Portugal with Roomful of Teeth. More information can
-        be found at jasonawbrey.com.
-      </p>
     </div>
     <h2>Recent Mentions</h2>
     <QuoteList feed={QuoteData} />
