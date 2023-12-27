@@ -32,10 +32,10 @@ const IndexPage = () => (
         United States, Mexico, and Europe, including Ars Lyrica of Houston,
         Grammy® award-winning ensembles Conspirare and Roomful of Teeth, Dallas
         Bach Society, Dallas Symphony, Northeast Symphony, Crescendo, Harmonia
-        Stellarum, Tactus, The Orchestra of New Spain, Orpheus Chamber Singers,
-        Rapides Symphony Orchestra, San Antonio Symphony, Santa Fe Desert
-        Chorale, Oklahoma Bach, Verdigris Ensemble, Texas Camerata and Vox
-        Humana. Jason has recorded with a number of ensembles including
+        Stellarum, Ensemble Iona, Tactus, The Orchestra of New Spain, Orpheus
+        Chamber Singers, Rapides Symphony Orchestra, San Antonio Symphony, Santa
+        Fe Desert Chorale, Oklahoma Bach, Verdigris Ensemble, Texas Camerata and
+        Vox Humana. Jason has recorded with a number of ensembles including
         Conspirare, Orpheus Chamber Singers, Verdigris Ensemble, and Vox Humana.
       </p>
     </div>
