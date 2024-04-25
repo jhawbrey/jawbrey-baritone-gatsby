@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "author": "Jason Awbrey <jawbrey@gmail.com>",
   "dependencies": {
-    "gatsby": "^2.13.57",
+    "gatsby": "^5.0.0",
     "gatsby-plugin-google-analytics": "^5.8.0",
     "gatsby-plugin-google-gtag": "^5.8.0",
     "gatsby-plugin-image": "^3.0.0",
