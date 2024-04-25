@@ -1,5 +1,4 @@
 module.exports = {
-  trailingSlash: `always`,
   siteMetadata: {
     description: `Concert info, reviews, audio, and info about Jason Awbrey, baritone`,
     author: `@jawbritone`,
