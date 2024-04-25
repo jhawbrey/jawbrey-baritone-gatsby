@@ -1371,6 +1371,20 @@
     "country": "United States",
     "state": "TX",
     "map": "https://goo.gl/maps/juijsiDxs5PtFedy9"
-  }
+  },
+  {
+    "organization": "Church of the Incarnation",
+    "timestamp": "2024-05-07T12:00-06:00",
+    "date": "May 7, 2024", 
+    "time": "12:00 pm", 
+    "title": "Bach's Lunch: BWV 211 - Kaffee Kantate",
+    "url": "",
+    "venue": "Church of the Incarnation",
+    "address": "3966 McKinney Ave",
+    "city": "Dallas",
+    "country": "United States",
+    "state": "TX",
+    "map": "https://maps.app.goo.gl/3yx8kPvfQdaHHWFU6"
+  },
 ]
 
