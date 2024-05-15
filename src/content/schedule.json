@@ -1385,6 +1385,62 @@
     "country": "United States",
     "state": "TX",
     "map": "https://maps.app.goo.gl/3yx8kPvfQdaHHWFU6"
-  }
+  }, 
+  {
+    "organization": "Harmonia Stellarum",
+    "timestamp": "2024-09-08T16:00-06:00",
+    "date": "Sept 8, 2024",
+    "time": "4:00 pm", 
+    "title": "A True Palestrinian Torrent of Sound",
+    "url": "https://harmoniastellarum.com/calendar/bruckner",
+    "venue": "",
+    "address": "",
+    "city": "Houston",
+    "country": "United States",
+    "state": "TX",
+    "map": ""
+  },
+  {
+    "organization": "Harmonia Stellarum",
+    "timestamp": "2024-09-08T16:00-06:00",
+    "date": "Dec 1, 2024",
+    "time": "4:00 pm", 
+    "title": "Es Begab Sich Zu Der Zeit",
+    "url": "https://harmoniastellarum.com/calendar/advent2024",
+    "venue": "",
+    "address": "",
+    "city": "Houston",
+    "country": "United States",
+    "state": "TX",
+    "map": ""
+  },
+  {
+    "organization": "Harmonia Stellarum",
+    "timestamp": "2025-01-10T19:30-06:00",
+    "date": "Jan 10, 2025",
+    "time": "7:30 pm", 
+    "title": "Laudate Dominum",
+    "url": "https://harmoniastellarum.com/calendar/laudate-dominum",
+    "venue": "",
+    "address": "",
+    "city": "Houston",
+    "country": "United States",
+    "state": "TX",
+    "map": ""
+  },
+  {
+    "organization": "Harmonia Stellarum",
+    "timestamp": "2025-04-27T16:000-06:00",
+    "date": "Apr 27, 2025",
+    "time": "4:00 pm", 
+    "title": "Laudate Dominum",
+    "url": "https://harmoniastellarum.com/calendar/triumph",
+    "venue": "",
+    "address": "",
+    "city": "Houston",
+    "country": "United States",
+    "state": "TX",
+    "map": ""
+  },
 ]
 
