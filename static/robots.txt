@@ -34,4 +34,4 @@ Disallow:
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: https://ensembleiona.org/sitemap.xml
+Sitemap: https://jasonawbrey.com/sitemap.xml
