@@ -1469,6 +1469,88 @@
     "country": "United States",
     "state": "TX",
     "map": "https://goo.gl/maps/hrbpwtDhYPHdSWod7"
+  },
+  {
+    "organization": "Church of the Incarnation",
+    "timestamp": "2024-10-08T12:00-06:00",
+    "date": "Oct 8, 2024", 
+    "time": "12:00 pm", 
+    "title": "Bach's Lunch: BuxWV 80 & BWV 131",
+    "url": "",
+    "venue": "Church of the Incarnation",
+    "address": "3966 McKinney Ave",
+    "city": "Dallas",
+    "country": "United States",
+    "state": "TX",
+    "map": "https://maps.app.goo.gl/3yx8kPvfQdaHHWFU6"
+  },
+  {
+    "organization": "Church of the Incarnation",
+    "timestamp": "2024-12-03T12:00-06:00",
+    "date": "Dec 3, 2024", 
+    "time": "12:00 pm", 
+    "title": "Bach's Lunch: SWV 494 & BWV 243",
+    "url": "",
+    "venue": "Church of the Incarnation",
+    "address": "3966 McKinney Ave",
+    "city": "Dallas",
+    "country": "United States",
+    "state": "TX",
+    "map": "https://maps.app.goo.gl/3yx8kPvfQdaHHWFU6"
+  },
+  {
+    "organization": "Church of the Incarnation",
+    "timestamp": "2025-04-06T12:00-06:00",
+    "date": "Feb 4, 2025", 
+    "time": "12:00 pm", 
+    "title": "Bach's Lunch: BWV 225 & 227",
+    "url": "",
+    "venue": "Church of the Incarnation",
+    "address": "3966 McKinney Ave",
+    "city": "Dallas",
+    "country": "United States",
+    "state": "TX",
+    "map": "https://maps.app.goo.gl/3yx8kPvfQdaHHWFU6"
+  },
+  {
+    "organization": "Church of the Incarnation",
+    "timestamp": "2025-04-06T12:00-06:00",
+    "date": "Mar 4, 2025", 
+    "time": "12:00 pm", 
+    "title": "Bach's Lunch: BWV 1064 & 29",
+    "url": "",
+    "venue": "Church of the Incarnation",
+    "address": "3966 McKinney Ave",
+    "city": "Dallas",
+    "country": "United States",
+    "state": "TX",
+    "map": "https://maps.app.goo.gl/3yx8kPvfQdaHHWFU6"
+  },
+  {
+    "organization": "Church of the Transfiguration",
+    "timestamp": "2025-03-17T20:00-05:00",
+    "date": "mar 17, 2025",
+    "time": "7:00 pm",
+    "title": "Barber: Dover Beach",
+    "url": "http://transfiguration.net",
+    "venue": "Church of the Transfiguration",
+    "city": "Dallas",
+    "country": "United States",
+    "state": "TX"
+  }, 
+  {
+    "organization": "Church of the Incarnation",
+    "timestamp": "2025-04-01T12:00-06:00",
+    "date": "Apr 1, 2025", 
+    "time": "12:00 pm", 
+    "title": "Bach's Lunch: BWV 159 & 38",
+    "url": "",
+    "venue": "Church of the Incarnation",
+    "address": "3966 McKinney Ave",
+    "city": "Dallas",
+    "country": "United States",
+    "state": "TX",
+    "map": "https://maps.app.goo.gl/3yx8kPvfQdaHHWFU6"
   }
 ]
 
