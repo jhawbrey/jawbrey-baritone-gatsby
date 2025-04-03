@@ -1551,6 +1551,20 @@
     "country": "United States",
     "state": "TX",
     "map": "https://maps.app.goo.gl/3yx8kPvfQdaHHWFU6"
+  }, 
+  {
+    "organization": "Victoria Bach Festival",
+    "timestamp": "2025-06-03T16:00-06:00",
+    "date": "Jun 3, 2025", 
+    "time": "4:00 pm", 
+    "title": "Bach: B Minor Mass",
+    "url": "https://victoriabachfestival.org/events/categories/2025-victoria-bach-festival/",
+    "venue": "Our Saviour's Lutheran Church",
+    "address": "4102 N Ben Jordan St",
+    "city": "Victoria",
+    "country": "United States",
+    "state": "TX",
+    "map": "https://maps.app.goo.gl/PpLzPPXdkHuAP7yXA"
   }
 ]
 
