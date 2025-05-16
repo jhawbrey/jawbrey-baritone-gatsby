@@ -1551,6 +1551,20 @@
     "country": "United States",
     "state": "TX",
     "map": "https://maps.app.goo.gl/McMBtSVdivXkqVNQ6"
+  }, 
+  {
+    "organization": "Vox Seraphim",
+    "timestamp": "2026-05-03T16:00-06:00",
+    "date": "May 03, 2026",
+    "time": "4:00 pm", 
+    "title": "Bach Magnificat",
+    "url": "https://www.stalbanswaco.org/music/sacredarts/",
+    "venue": "St Alban's Episcopal Church ",
+    "address": "305 N 30th St",
+    "city": "Waco",
+    "country": "United States",
+    "state": "TX",
+    "map": "https://maps.app.goo.gl/BGJ8x9eR4ZhFH4kp9"
   }
 ]
 
