@@ -1704,6 +1704,76 @@
     "country": "United States",
     "state": "TX",
     "map": "https://maps.app.goo.gl/BGJ8x9eR4ZhFH4kp9"
+  }, 
+  {
+    "organization": "Charlotte Bach Festival",
+    "timestamp": "2026-05-30T19:30-06:00",
+    "date": "May 30, 2026",
+    "time": "07:30 pm", 
+    "title": "Gloria! Bach, Handel, and Vivaldi",
+    "url": "https://bacharlotte.com/charlottebachfestival/gloria-bach-handel-vivaldi",
+    "venue": "Sandra Levine Theatre, Gambrell Center, Queens University of Charlotte ",
+    "address": "2319 Wellesley Avenue",
+    "city": "Charlotte",
+    "country": "United States",
+    "state": "NC",
+    "map": "https://maps.app.goo.gl/rruVofXaGRMdy2q48"
+  }, 
+  {
+    "organization": "Charlotte Bach Festival",
+    "timestamp": "2026-06-03T12:00-06:00",
+    "date": "June 03, 2026",
+    "time": "12:00 pm", 
+    "title": "JS Bach: Es ist das Heil uns kommen her, BWV 9",
+    "url": "https://bacharlotte.com/charlottebachfestival/tuning-in-bach-cantata-9",
+    "venue": "Myers Park Presbyterian Church",
+    "address": "2501 Oxford Place",
+    "city": "Charlotte",
+    "country": "United States",
+    "state": "NC",
+    "map": "https://maps.app.goo.gl/nLGDCC7hoUtDjgk2A"
+  }, 
+  {
+    "organization": "Charlotte Bach Festival",
+    "timestamp": "2026-06-03T19:30-06:00",
+    "date": "June 03, 2026",
+    "time": "07:30 pm", 
+    "title": "Henry Purcell’s Dido and Aeneas",
+    "url": "https://bacharlotte.com/charlottebachfestival/purcell-dido-aeneas",
+    "venue": "Arts+ Community Campus",
+    "address": "2304 The Plaza",
+    "city": "Charlotte",
+    "country": "United States",
+    "state": "NC",
+    "map": "https://maps.app.goo.gl/Vo3jZ2x7jEtBj15h9"
+  }, 
+  {
+    "organization": "Charlotte Bach Festival",
+    "timestamp": "2026-06-04T12:00-06:00",
+    "date": "June 04, 2026",
+    "time": "12:00 pm", 
+    "title": "GF Handel: My song shall be alway, HWV 252",
+    "url": "https://bacharlotte.com/charlottebachfestival/tuning-in-handel-anthem-252",
+    "venue": "Myers Park Presbyterian Church",
+    "address": "2501 Oxford Place",
+    "city": "Charlotte",
+    "country": "United States",
+    "state": "NC",
+    "map": "https://maps.app.goo.gl/nLGDCC7hoUtDjgk2A"
+  }, 
+  {
+    "organization": "Charlotte Bach Festival",
+    "timestamp": "2026-06-06T19:30-06:00",
+    "date": "June 04, 2026",
+    "time": "07:30 pm", 
+    "title": "Handel’s Theodora",
+    "url": "https://bacharlotte.com/charlottebachfestival/handel-theodora",
+    "venue": "Sandra Levine Theatre, Gambrell Center, Queens University of Charlotte ",
+    "address": "2319 Wellesley Avenue",
+    "city": "Charlotte",
+    "country": "United States",
+    "state": "NC",
+    "map": "https://maps.app.goo.gl/rruVofXaGRMdy2q48"
   }
 ]
 
