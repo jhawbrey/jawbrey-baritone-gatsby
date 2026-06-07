@@ -1764,7 +1764,7 @@
   {
     "organization": "Charlotte Bach Festival",
     "timestamp": "2026-06-06T19:30-06:00",
-    "date": "June 04, 2026",
+    "date": "June 06, 2026",
     "time": "07:30 pm", 
     "title": "Handel’s Theodora",
     "url": "https://bacharlotte.com/charlottebachfestival/handel-theodora",
@@ -1774,6 +1774,20 @@
     "country": "United States",
     "state": "NC",
     "map": "https://maps.app.goo.gl/rruVofXaGRMdy2q48"
+  }, 
+  {
+    "organization": "Vox Seraphim",
+    "timestamp": "2027-04-11T15:00-06:00",
+    "date": "April 11, 2027",
+    "time": "03:00 pm", 
+    "title": "Handel: Messiah",
+    "url": "https://www.stalbanswaco.org/music/sacredarts/",
+    "venue": "St Alban's Episcopal Church ",
+    "address": "305 N 30th St",
+    "city": "Waco",
+    "country": "United States",
+    "state": "TX",
+    "map": "https://maps.app.goo.gl/BGJ8x9eR4ZhFH4kp9"
   }
 ]
 
