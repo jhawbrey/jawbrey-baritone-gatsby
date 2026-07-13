@@ -1774,6 +1774,19 @@
     "country": "United States",
     "state": "NC",
     "map": "https://maps.app.goo.gl/rruVofXaGRMdy2q48"
+  },
+  {
+    "organization": "Transfigured Nights",
+    "timestamp": "2026-11-02T19:00-05:00",
+    "date": "Nov 02, 2026",
+    "time": "7:00 pm",
+    "title": "Duruflé Requiem",
+    "url": "http://transfiguration.net",
+    "venue": "Church of the Transfiguration",
+    "address": "14115 Hillcrest Rd",
+    "city": "Dallas",
+    "country": "United States",
+    "state": "TX"
   }, 
   {
     "organization": "Bach's Lunch",
