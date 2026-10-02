@@ -18,6 +18,8 @@
     "react-dom": "^18.3.1"
   },
   "devDependencies": {
+    "ajv": "^8.20.0",
+    "ajv-keywords": "^5.1.0",
     "gh-pages": "^6.3.0",
     "prettier": "^3.8.1"
   },
@@ -32,8 +34,7 @@
     "start": "gatsby develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
-    "postinstall": "node scripts/validate-deps.js"
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -41,28 +42,5 @@
   },
   "bugs": {
     "url": "https://github.com/jhawbrey/jawbrey-baritone-gatsby/issues"
-  },
-  "overrides": {
-    "shell-quote": "1.10.0",
-    "axios": "^1.13.0",
-    "fast-uri": "^4.0.0",
-    "multer": "^2.0.0",
-    "brace-expansion": "^2.0.2",
-    "postcss": "^8.5.0",
-    "qs": "^6.13.0",
-    "engine.io": "^6.6.0",
-    "cookie": "^0.7.0",
-    "decode-uri-component": "^0.4.1",
-    "msgpackr": "^1.11.2",
-    "graphql-tools": "^5.12.12",
-    "flatted": "^3.3.3",
-    "form-data": "^4.0.0",
-    "js-yaml": "^4.1.0",
-    "lodash": "^4.17.21",
-    "minimatch": "^9.0.5",
-    "picomatch": "^4.0.2",
-    "socket.io-parser": "^4.2.4",
-    "svgo": "^3.3.2",
-    "ws": "^8.18.0"
   }
 }
