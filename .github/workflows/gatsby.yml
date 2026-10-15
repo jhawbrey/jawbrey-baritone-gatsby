@@ -55,6 +55,10 @@ jobs:
         with:
           node-version: "26.10.0"
           cache: ${{ steps.detect-package-manager.outputs.manager }}
+
+      - name: "Ensure matching npm version"
+        run: npm install -g npm@11.19.1
+
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v6.0.0
